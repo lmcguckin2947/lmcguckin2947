@@ -1,14 +1,12 @@
 <h1 align = "center">Welcome to my GitHub!</h1>
 
-## 🌼 About Me
-I'm Claire, and I'm currently a freshman at Miami University majoring in Computer Engineering with a minor in Computer Science. I'm from Brentwood, TN, but I was born in Green Bay, WI, so I always say I went north for college because I missed the cold. May I say, I definitely experience the cold at school and it is nothing like I was used to in Brentwood. I didn't start coding until my senior year of high school when I took AP Computer Science Principles because I heard it was an easy class to get good credit in and I had space in my schedule. Little did I know that I would have so much passion for coding and eventually study it in college! I learned and became sufficient with Javascript during my first year of coding, but since then I have learned and practiced with many different coding lagunages, such as Java, C, HTML, and more. Alongside coding, I also really enjoy physics and the hardware side of technology. I was the stage manager for my high school theatre department all through high school, so I got my fill of technological experience there. I've always been pretty crafty, and I really liked my physics classes in high school, so I thought Computer Engineering was the perfect way to combine all of the different topics I enjoy. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
+## 🧠 About Me
+I'm Liam, and I'm currently a freshman at Miami University majoring in Computer Science with a minor in Information Systems. I'm from Maumee, OH, but no one knows where that is so I just say Toledo, OH.  I first started coding via an HTML coding tutorial on [CodeCademy](https://www.codecademy.com/), which turned into a blog, which I styled with CSS, which cascaded into me wanting to learn everything! I learned and became sufficient with HTML during my first year of coding, but since then I have learned and practiced with many different coding lagunages, such as Java, CSS, Python, SQL, and more. Outside coding, I really enjoy to run, and listen to music. I was the team captin for my highschool's cross country and track programs, and I am now my runnning as the social chair for my college running club. I'm very excited to take a multitude of relavent classes through [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) and expand my knowledge.
 <br>
 
 ## 👾 My Projects
 #### 2022
-- [Game Room **(🔴 Java)**](https://github.com/clairehopfensperger/GameRoom)
-#### 2021
-- [Snake Game **(🟠 Javascript)**](https://github.com/clairehopfensperger/SnakeGame)
+- [Interactive lock **(🔴 Java)**](https://github.com/lmcguckin2947/Interactive-Lock)
 <br>
 
 ## 📓 Courses I've Taken
@@ -34,26 +32,24 @@ I'm Claire, and I'm currently a freshman at Miami University majoring in Compute
 - Learned the concept of recursion and practiced coding it
 </details>
 <details>
-  <summary>Intro to Electrical and Computer Engineering (🔵 C, 🟢 HTML, 🟣 CSS)</summary>
+  <summary>Intro to CyberSecurity (🔵 Linux Systems)</summary>
 
 - Freshman Year Spring Semester, 2022
 - Introduced and practiced navigating Linux terminal and directories and editing filing within terminal
-- Practiced coding with C
-- Created simple webpages with HTML and CSS
-- Built and coded Lego Mindstorm robots to battle using NXC in Bricx Command Center
-- Practiced different applications of Microsoft Excel
-- Experiemented with Arduino Uno boards and coded on the Arduino IDE
-- Worked with MatLab
+- Practiced safe security principlas.
+- Created and studdied cybersecurity policies 
+- Completed a few capture the flag activities
+- Worked with symmetric and asymmetric encryption
 </details>
 <br>
 
 ## 📚 Courses I'm Taking Next Semester
 - Data Abstraction and Data Structures
-- Electric Circuit Analysis
-- Digital System Designs
+- IT and the Intelegent Enterprises
+- Systems I
 <br>
 
 ## 🔗 How to Reach Me
-- 📧 Email - hopfencg@miamioh.edu
-- 🟦 LinkedIn - [linkedin.com/in/clairehopfensperger](https://www.linkedin.com/in/clairehopfensperger/)
+- 📧 Email - lmcguckin2947@gmail.com
+- 🟦 LinkedIn - [linkedin.com/in/lmcguckin/](https://www.linkedin.com/in/lmcguckin/)
 <br>
